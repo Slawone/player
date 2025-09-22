@@ -1,2 +1,1 @@
-# starter
-react starter config
+# react starter config
