@@ -1,10 +1,11 @@
 import './App.css';
+import './reset.css';
+import { Welcome } from '../pages/Welcome';
 
 export const App = () => {
   return (
     <>
-      <h1>Hello</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, esse.</p>
+      <Welcome />
     </>
-  )
+  );
 }
